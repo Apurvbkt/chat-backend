@@ -1,0 +1,99 @@
+
+> chat-app-backend@1.0.0 dev
+> nodemon src/server.js
+
+[33m[nodemon] 3.1.14[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,cjs,json[39m
+[32m[nodemon] starting `node src/server.js`[39m
+MongoDB connected
+Server running on port 5000
+[0mPOST /api/auth/register [32m201[0m 273.991 ms - 398[0m
+[0mGET /api/auth/me [32m200[0m 22.799 ms - 207[0m
+[0mGET /api/chats/my [32m200[0m 62.095 ms - 26[0m
+[0mGET /api/chats/my [36m304[0m 8.811 ms - -[0m
+[0mPOST /api/auth/register [32m201[0m 128.098 ms - 400[0m
+[0mGET /api/auth/me [32m200[0m 9.150 ms - 209[0m
+[0mGET /api/chats/my [32m200[0m 37.826 ms - 26[0m
+[0mGET /api/chats/my [36m304[0m 9.172 ms - -[0m
+[0mGET /api/users/search?q=test [32m200[0m 37.217 ms - 169[0m
+[0mPOST /api/chats/direct [32m201[0m 37.111 ms - 528[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [32m200[0m 18.232 ms - 97[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [32m200[0m 27.162 ms - 525[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/invite [32m200[0m 4.826 ms - 117[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/invite [36m304[0m 3.774 ms - -[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/invite [36m304[0m 8.711 ms - -[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [32m200[0m 21.415 ms - 1046[0m
+[0mGET /api/auth/me [32m200[0m 7.647 ms - 231[0m
+[0mGET /api/auth/me [36m304[0m 4.018 ms - -[0m
+[0mGET /api/chats/my [32m200[0m 30.618 ms - 732[0m
+[0mGET /api/chats/my [32m200[0m 44.035 ms - 709[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [32m200[0m 41.300 ms - 1046[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [36m304[0m 55.051 ms - -[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [36m304[0m 30.813 ms - -[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+MongoDB connected
+Server running on port 5000
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [36m304[0m 23.549 ms - -[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+MongoDB connected
+Server running on port 5000
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [36m304[0m 47.301 ms - -[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [36m304[0m 46.677 ms - -[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+MongoDB connected: 127.0.0.1
+Server running on port 5000 (development)
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [36m304[0m 26.074 ms - -[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+MongoDB connected: 127.0.0.1
+Server running on port 5000 (development)
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [36m304[0m 27.308 ms - -[0m
+[0mGET /api/health [32m200[0m 0.871 ms - 42[0m
+[0mGET /api/auth/me [32m200[0m 4.445 ms - 231[0m
+[0mGET /api/auth/me [36m304[0m 12.976 ms - -[0m
+[0mGET /api/chats/my [32m200[0m 25.639 ms - 753[0m
+[0mGET /api/chats/my [32m200[0m 8.637 ms - 730[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [32m200[0m 14.302 ms - 1996[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [36m304[0m 14.661 ms - -[0m
+[0mGET /api/auth/me [32m200[0m 4.646 ms - 229[0m
+[0mGET /api/auth/me [36m304[0m 4.807 ms - -[0m
+[0mGET /api/chats/my [32m200[0m 17.643 ms - 707[0m
+[0mGET /api/chats/my [36m304[0m 25.866 ms - -[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [36m304[0m 31.642 ms - -[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [32m200[0m 18.778 ms - 1996[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [36m304[0m 16.804 ms - -[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [36m304[0m 59.948 ms - -[0m
+[0mGET /api/chats/my [32m200[0m 44.782 ms - 730[0m
+[0mGET /api/chats/my [32m200[0m 27.122 ms - 707[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [36m304[0m 60.007 ms - -[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [36m304[0m 54.148 ms - -[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [36m304[0m 47.917 ms - -[0m

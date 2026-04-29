@@ -1,0 +1,133 @@
+node:internal/modules/esm/resolve:854
+  throw new ERR_MODULE_NOT_FOUND(packageName, fileURLToPath(base), null);
+        ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find package 'express-rate-limit' imported from D:\chat app\backend\src\middleware\rateLimiter.js
+    at packageResolve (node:internal/modules/esm/resolve:854:9)
+    at moduleResolve (node:internal/modules/esm/resolve:927:18)
+    at defaultResolve (node:internal/modules/esm/resolve:1169:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:540:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:509:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:239:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:96:40)
+    at link (node:internal/modules/esm/module_job:95:36) {
+  code: 'ERR_MODULE_NOT_FOUND'
+}
+
+Node.js v20.17.0
+node:internal/modules/esm/resolve:854
+  throw new ERR_MODULE_NOT_FOUND(packageName, fileURLToPath(base), null);
+        ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find package 'express-rate-limit' imported from D:\chat app\backend\src\middleware\rateLimiter.js
+    at packageResolve (node:internal/modules/esm/resolve:854:9)
+    at moduleResolve (node:internal/modules/esm/resolve:927:18)
+    at defaultResolve (node:internal/modules/esm/resolve:1169:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:540:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:509:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:239:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:96:40)
+    at link (node:internal/modules/esm/module_job:95:36) {
+  code: 'ERR_MODULE_NOT_FOUND'
+}
+
+Node.js v20.17.0
+node:internal/modules/esm/resolve:854
+  throw new ERR_MODULE_NOT_FOUND(packageName, fileURLToPath(base), null);
+        ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find package 'express-rate-limit' imported from D:\chat app\backend\src\middleware\rateLimiter.js
+    at packageResolve (node:internal/modules/esm/resolve:854:9)
+    at moduleResolve (node:internal/modules/esm/resolve:927:18)
+    at defaultResolve (node:internal/modules/esm/resolve:1169:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:540:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:509:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:239:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:96:40)
+    at link (node:internal/modules/esm/module_job:95:36) {
+  code: 'ERR_MODULE_NOT_FOUND'
+}
+
+Node.js v20.17.0
+node:internal/modules/esm/resolve:854
+  throw new ERR_MODULE_NOT_FOUND(packageName, fileURLToPath(base), null);
+        ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find package 'express-rate-limit' imported from D:\chat app\backend\src\middleware\rateLimiter.js
+    at packageResolve (node:internal/modules/esm/resolve:854:9)
+    at moduleResolve (node:internal/modules/esm/resolve:927:18)
+    at defaultResolve (node:internal/modules/esm/resolve:1169:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:540:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:509:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:239:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:96:40)
+    at link (node:internal/modules/esm/module_job:95:36) {
+  code: 'ERR_MODULE_NOT_FOUND'
+}
+
+Node.js v20.17.0
+node:internal/modules/package_json_reader:93
+        throw error;
+        ^
+
+SyntaxError: Error parsing D:\chat app\backend\package.json: Unexpected non-whitespace character after JSON at position 657
+    at parse (<anonymous>)
+    at read (node:internal/modules/package_json_reader:80:16)
+    at readPackage (node:internal/modules/package_json_reader:141:10)
+    at readPackageScope (node:internal/modules/package_json_reader:164:19)
+    at shouldUseESMLoader (node:internal/modules/run_main:81:15)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:161:24)
+    at node:internal/main/run_main_module:28:49 {
+  path: 'D:\\chat app\\backend\\package.json'
+}
+
+Node.js v20.17.0
+node:internal/modules/package_json_reader:93
+        throw error;
+        ^
+
+SyntaxError: Error parsing D:\chat app\backend\package.json: Unexpected non-whitespace character after JSON at position 657
+    at parse (<anonymous>)
+    at read (node:internal/modules/package_json_reader:80:16)
+    at readPackage (node:internal/modules/package_json_reader:141:10)
+    at readPackageScope (node:internal/modules/package_json_reader:164:19)
+    at shouldUseESMLoader (node:internal/modules/run_main:81:15)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:161:24)
+    at node:internal/main/run_main_module:28:49 {
+  path: 'D:\\chat app\\backend\\package.json'
+}
+
+Node.js v20.17.0
+node:internal/modules/package_json_reader:93
+        throw error;
+        ^
+
+SyntaxError: Error parsing D:\chat app\backend\package.json: Unexpected non-whitespace character after JSON at position 657
+    at parse (<anonymous>)
+    at read (node:internal/modules/package_json_reader:80:16)
+    at readPackage (node:internal/modules/package_json_reader:141:10)
+    at readPackageScope (node:internal/modules/package_json_reader:164:19)
+    at shouldUseESMLoader (node:internal/modules/run_main:81:15)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:161:24)
+    at node:internal/main/run_main_module:28:49 {
+  path: 'D:\\chat app\\backend\\package.json'
+}
+
+Node.js v20.17.0
+node:internal/modules/esm/resolve:854
+  throw new ERR_MODULE_NOT_FOUND(packageName, fileURLToPath(base), null);
+        ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find package 'express-rate-limit' imported from D:\chat app\backend\src\middleware\rateLimiter.js
+    at packageResolve (node:internal/modules/esm/resolve:854:9)
+    at moduleResolve (node:internal/modules/esm/resolve:927:18)
+    at defaultResolve (node:internal/modules/esm/resolve:1169:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:540:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:509:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:239:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:96:40)
+    at link (node:internal/modules/esm/module_job:95:36) {
+  code: 'ERR_MODULE_NOT_FOUND'
+}
+
+Node.js v20.17.0
