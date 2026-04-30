@@ -97,3 +97,41 @@ Server running on port 5000 (development)
 [0mGET /api/chats/69f1b64e698942990ab07831/messages [36m304[0m 60.007 ms - -[0m
 [0mGET /api/chats/69f1b64e698942990ab07831/messages [36m304[0m 54.148 ms - -[0m
 [0mGET /api/chats/69f1b64e698942990ab07831/messages [36m304[0m 47.917 ms - -[0m
+[0mGET /api/auth/me [32m200[0m 12.891 ms - 229[0m
+[0mGET /api/auth/me [36m304[0m 11.679 ms - -[0m
+[0mGET /api/auth/me [32m200[0m 6.785 ms - 231[0m
+[0mGET /api/chats/my [32m200[0m 24.608 ms - 732[0m
+[0mGET /api/auth/me [36m304[0m 11.665 ms - -[0m
+[0mGET /api/chats/my [36m304[0m 20.197 ms - -[0m
+[0mGET /api/chats/my [32m200[0m 19.860 ms - 732[0m
+[0mGET /api/chats/my [32m200[0m 21.416 ms - 709[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [32m200[0m 36.118 ms - 2949[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [36m304[0m 31.551 ms - -[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [32m200[0m 55.079 ms - 2949[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [36m304[0m 30.104 ms - -[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [36m304[0m 29.069 ms - -[0m
+[0mGET /api/auth/me [32m200[0m 4.551 ms - 231[0m
+[0mGET /api/auth/me [36m304[0m 8.719 ms - -[0m
+[0mGET /api/auth/me [32m200[0m 6.082 ms - 229[0m
+[0mGET /api/chats/my [32m200[0m 32.819 ms - 732[0m
+[0mGET /api/auth/me [36m304[0m 8.789 ms - -[0m
+[0mGET /api/chats/my [36m304[0m 16.596 ms - -[0m
+[0mGET /api/chats/my [32m200[0m 19.531 ms - 732[0m
+[0mGET /api/chats/my [32m200[0m 16.880 ms - 709[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [36m304[0m 25.309 ms - -[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [36m304[0m 24.421 ms - -[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [36m304[0m 22.858 ms - -[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [36m304[0m 30.816 ms - -[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [36m304[0m 29.456 ms - -[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [32m200[0m 78.121 ms - 3913[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [32m200[0m 73.291 ms - 3913[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [36m304[0m 35.428 ms - -[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [36m304[0m 47.330 ms - -[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+MongoDB connected: 127.0.0.1
+Server running on port 5000 (development)
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [36m304[0m 92.491 ms - -[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
