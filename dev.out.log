@@ -135,3 +135,42 @@ Server running on port 5000 (development)
 [0mGET /api/chats/69f1b64e698942990ab07831/messages [36m304[0m 92.491 ms - -[0m
 [32m[nodemon] restarting due to changes...[39m
 [32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+MongoDB connected: 127.0.0.1
+Server running on port 5000 (development)
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [36m304[0m 73.101 ms - -[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [36m304[0m 63.815 ms - -[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [36m304[0m 48.005 ms - -[0m
+[0mGET /api/auth/me [32m200[0m 10.481 ms - 231[0m
+[0mGET /api/auth/me [36m304[0m 8.673 ms - -[0m
+[0mGET /api/chats/my [32m200[0m 47.846 ms - 720[0m
+[0mGET /api/chats/my [36m304[0m 37.775 ms - -[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [36m304[0m 58.832 ms - -[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [36m304[0m 54.621 ms - -[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [36m304[0m 37.464 ms - -[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [36m304[0m 32.101 ms - -[0m
+[0mGET /api/auth/me [32m200[0m 9.886 ms - 229[0m
+[0mGET /api/auth/me [36m304[0m 10.222 ms - -[0m
+[0mGET /api/chats/my [32m200[0m 50.742 ms - 720[0m
+[0mGET /api/chats/my [36m304[0m 31.512 ms - -[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [36m304[0m 58.387 ms - -[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [36m304[0m 67.749 ms - -[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [36m304[0m 45.075 ms - -[0m
+[0mGET /api/auth/me [32m200[0m 6.678 ms - 231[0m
+[0mGET /api/auth/me [36m304[0m 4.733 ms - -[0m
+[0mGET /api/auth/me [32m200[0m 6.933 ms - 229[0m
+[0mGET /api/auth/me [36m304[0m 6.109 ms - -[0m
+[0mGET /api/chats/my [32m200[0m 19.180 ms - 766[0m
+[0mGET /api/chats/my [36m304[0m 15.921 ms - -[0m
+[0mGET /api/chats/my [32m200[0m 12.679 ms - 766[0m
+[0mGET /api/chats/my [36m304[0m 11.419 ms - -[0m
+[0mGET /api/auth/me [36m304[0m 12.853 ms - -[0m
+[0mGET /api/auth/me [36m304[0m 10.041 ms - -[0m
+[0mGET /api/auth/me [36m304[0m 16.167 ms - -[0m
+[0mGET /api/auth/me [36m304[0m 23.168 ms - -[0m
+[0mGET /api/chats/my [36m304[0m 43.872 ms - -[0m
+[0mGET /api/chats/my [32m200[0m 52.254 ms - 720[0m
+[0mGET /api/chats/my [32m200[0m 22.903 ms - 720[0m
+[0mGET /api/chats/my [36m304[0m 18.678 ms - -[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [36m304[0m 20.349 ms - -[0m
+[0mGET /api/chats/69f1b64e698942990ab07831/messages [36m304[0m 12.983 ms - -[0m
